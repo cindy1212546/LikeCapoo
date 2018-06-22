@@ -12,6 +12,7 @@
 		0C70DC4F207DCC9B00BBC8EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C70DC4D207DCC9B00BBC8EC /* Main.storyboard */; };
 		0C70DC51207DCC9B00BBC8EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C70DC50207DCC9B00BBC8EC /* Assets.xcassets */; };
 		0C70DC54207DCC9B00BBC8EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C70DC52207DCC9B00BBC8EC /* LaunchScreen.storyboard */; };
+		0C83DA3C20902168000D89BB /* CapooController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C83DA3B20902168000D89BB /* CapooController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0C70DC50207DCC9B00BBC8EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C70DC53207DCC9B00BBC8EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0C70DC55207DCC9B00BBC8EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C83DA3B20902168000D89BB /* CapooController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapooController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				0C70DC49207DCC9B00BBC8EC /* AppDelegate.swift */,
 				0C70DC4B207DCC9B00BBC8EC /* ViewController.swift */,
 				0C70DC4D207DCC9B00BBC8EC /* Main.storyboard */,
+				0C83DA3B20902168000D89BB /* CapooController.swift */,
 				0C70DC50207DCC9B00BBC8EC /* Assets.xcassets */,
 				0C70DC52207DCC9B00BBC8EC /* LaunchScreen.storyboard */,
 				0C70DC55207DCC9B00BBC8EC /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				0C70DC4C207DCC9B00BBC8EC /* ViewController.swift in Sources */,
 				0C70DC4A207DCC9B00BBC8EC /* AppDelegate.swift in Sources */,
+				0C83DA3C20902168000D89BB /* CapooController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
